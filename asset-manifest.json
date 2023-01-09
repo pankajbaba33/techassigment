@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/techassigment/static/css/main.2b7f5b6a.css",
+    "main.js": "/techassigment/static/js/main.15eed530.js",
+    "static/js/787.28cb0dcd.chunk.js": "/techassigment/static/js/787.28cb0dcd.chunk.js",
+    "index.html": "/techassigment/index.html",
+    "main.2b7f5b6a.css.map": "/techassigment/static/css/main.2b7f5b6a.css.map",
+    "main.15eed530.js.map": "/techassigment/static/js/main.15eed530.js.map",
+    "787.28cb0dcd.chunk.js.map": "/techassigment/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2b7f5b6a.css",
+    "static/js/main.15eed530.js"
+  ]
+}
